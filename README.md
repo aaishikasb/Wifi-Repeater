@@ -1,6 +1,10 @@
 # WiFi Repeater
 
-This is an implementation of a WiFi Repeater or a WiFi NAT router on the ESP8266 and ESP8285 based on a repository by [martin-ger](https://github.com/martin-ger/esp_wifi_repeater).
+This is an implementation of a WiFi Repeater or a WiFi NAT router on the ESP8266 and ESP8285 based on a repository by [martin-ger](https://github.com/martin-ger/esp_wifi_repeater). <br><br>
+![Issues](https://img.shields.io/github/issues/aaishikasb/Wifi-Repeater)
+![Stars](https://img.shields.io/github/stars/aaishikasb/Wifi-Repeater)
+![License](https://img.shields.io/github/license/aaishikasb/Wifi-Repeater)
+![Collaborator](https://img.shields.io/badge/collaborators-2-red)
 
 Using this repository you would be able to create **Simple Range Extender for an Existing WiFi Network** . For upgraded use case scenarios based on this head over to this [link](https://github.com/martin-ger/esp_wifi_repeater).
 
